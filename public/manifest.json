@@ -1,0 +1,22 @@
+{
+  "name": "CyberArena 45 - Master Gaming Portal",
+  "short_name": "CyberArena",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#080A0F",
+  "theme_color": "#00F0FF",
+  "description": "High-performance master responsive gaming portal with 45 classic strategy and puzzle games.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
